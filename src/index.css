@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* *{
+    font-family: 'Press Start 2P','ui-monospace','ui-sans-serif';
+} */
+
+@layer base {
+    h1,p,a,label {
+        font-family: 'Press Start 2P','ui-monospace','ui-sans-serif';
+    }
+    .searchbar{
+        font-family: 'Press Start 2P','ui-monospace','ui-sans-serif';
+    }
+  }
